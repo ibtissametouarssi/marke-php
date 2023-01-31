@@ -1,0 +1,23 @@
+﻿body 
+{
+    background-color:lavender;
+}
+.imgPRODUIT 
+{
+    width: 120px;
+    height: 120px;
+    cursor:pointer;
+}
+.nomPRODUIT
+{
+    font-size:large;
+}
+.sandok {
+    border: 1px solid silver;
+    border-radius: 2px;
+}
+.qte
+{
+width:70px;
+text-align:center;
+}
